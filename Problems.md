@@ -151,6 +151,7 @@ Saída: IMPAR
 **Limites:** 0 ≤ N ≤ 10^7 (mas cuidado com desempenho). Recomenda-se usar fórmula para N grande.
 
 **Complexidade:** O(N);
+
 **Casos teste**
 ```C
 Entrada: 5
@@ -191,3 +192,27 @@ Saída: 5000050000
 **Limites:** 0 ≤ n ≤ 20 para resultado seguro.
 
 **Complexidade:** O(n) tempo, O(1) memória.
+
+**Casos teste**
+```C
+Entrada: 5
+Saída: 120
+```
+```C
+Entrada: 0
+Saída: 1
+```
+```C
+Entrada: 1
+Saída: 1
+```
+```C
+Entrada: 20
+Saída: 2432902008176640000
+```
+
+```C
+Entrada: 21
+Saída: Overflow para n>20
+```
+---
