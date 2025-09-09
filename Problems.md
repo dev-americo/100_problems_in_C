@@ -1,7 +1,5 @@
 # 100 Problemas em C
 
-*breve resumo*
-
 ---
 
 ## Bloco 1 — Fundamentos (Exercícios 1–10)
